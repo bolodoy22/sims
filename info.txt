@@ -1,1 +1,4 @@
-Welcom to the Student information management system
+Welcome to the Student information management system
+
+
+Update 1
