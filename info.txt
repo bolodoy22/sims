@@ -2,3 +2,6 @@ Welcome to the Student information management system
 
 
 Update 1
+
+
+New Welcome SIMS
